@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.dnarv_proyectob.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\garcia.71395\\Desktop\\DNArv\\Proyectos\\DNArv_ProyectoB\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "DNArv_ProyectoB [Testing]"
+        }
+      }
+    }
+  ]
+}
